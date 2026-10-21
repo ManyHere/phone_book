@@ -1,0 +1,15 @@
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\bin\Debug\net10.0\ContactBook.Data.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\bin\Debug\net10.0\ContactBook.Data.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\bin\Debug\net10.0\ContactBook.Data.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\bin\Debug\net10.0\ContactBook.Core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\bin\Debug\net10.0\ContactBook.Core.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactB.D6434F1D.Up2Date
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\refint\ContactBook.Data.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ContactBook.Data.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Data\obj\Debug\net10.0\ref\ContactBook.Data.dll

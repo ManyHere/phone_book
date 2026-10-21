@@ -1,0 +1,11 @@
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\bin\Debug\net10.0\ContactBook.Core.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\bin\Debug\net10.0\ContactBook.Core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\bin\Debug\net10.0\ContactBook.Core.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\refint\ContactBook.Core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ContactBook.Core.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\МДК 05.02\Работы студентов\Годунов Корепанов Касимов петухов\ContactBook\ContactBook.Core\obj\Debug\net10.0\ref\ContactBook.Core.dll

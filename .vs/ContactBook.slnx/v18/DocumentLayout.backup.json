@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2417350-FEFE-4465-A344-2B2D7C744290}|ContactBook.UI\\ContactBook.UI.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.ui\\contactbook.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2417350-FEFE-4465-A344-2B2D7C744290}|ContactBook.UI\\ContactBook.UI.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2417350-FEFE-4465-A344-2B2D7C744290}|ContactBook.UI\\ContactBook.UI.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2417350-FEFE-4465-A344-2B2D7C744290}|ContactBook.UI\\ContactBook.UI.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2417350-FEFE-4465-A344-2B2D7C744290}|ContactBook.UI\\ContactBook.UI.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F7C80D-9E88-4189-A9E0-A048E8F07D83}|ContactBook.Core\\ContactBook.Core.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.core\\contactbook.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4F9BF6-DE08-4E34-A36B-CE1C64A5507C}|ContactBook.Data\\ContactBook.Data.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.data\\contactbook.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4F9BF6-DE08-4E34-A36B-CE1C64A5507C}|ContactBook.Data\\ContactBook.Data.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.data\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F7C80D-9E88-4189-A9E0-A048E8F07D83}|ContactBook.Core\\ContactBook.Core.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.core\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4F9BF6-DE08-4E34-A36B-CE1C64A5507C}|ContactBook.Data\\ContactBook.Data.csproj|\\\\192.168.3.250\\veda\\3 \u043A\u0443\u0440\u0441\\\u0438\u0441\u043F 31\\\u043C\u0434\u043A 05.02\\\u0440\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0433\u043E\u0434\u0443\u043D\u043E\u0432 \u043A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u043A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\contactbook\\contactbook.data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ContactBook.UI\\Program.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Program.cs",
+              "RelativeToolTip": "ContactBook.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:45:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactBook.UI",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\ContactBook.UI.csproj",
+              "RelativeDocumentMoniker": "ContactBook.UI\\ContactBook.UI.csproj",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\ContactBook.UI.csproj",
+              "RelativeToolTip": "ContactBook.UI\\ContactBook.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T09:43:45.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactBook.UI\\Form1.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.cs",
+              "RelativeToolTip": "ContactBook.UI\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA3wFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:43:01.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ContactBook.UI\\Form1.Designer.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.Designer.cs",
+              "RelativeToolTip": "ContactBook.UI\\Form1.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:40:55.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.cs",
+              "RelativeDocumentMoniker": "ContactBook.UI\\Form1.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ContactBook.UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:39:14.891Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactBook.Core",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
+              "RelativeDocumentMoniker": "ContactBook.Core\\ContactBook.Core.csproj",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Core\\ContactBook.Core.csproj",
+              "RelativeToolTip": "ContactBook.Core\\ContactBook.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T09:33:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Core\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactBook.Core\\Contact.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Core\\Contact.cs",
+              "RelativeToolTip": "ContactBook.Core\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:33:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactRepository.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactRepository.cs",
+              "RelativeDocumentMoniker": "ContactBook.Data\\ContactRepository.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactRepository.cs",
+              "RelativeToolTip": "ContactBook.Data\\ContactRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:12:52.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "ContactBook.Data\\ContactDbContext.cs",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactDbContext.cs",
+              "RelativeToolTip": "ContactBook.Data\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T09:08:07.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactBook.Data",
+              "DocumentMoniker": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactBook.Data.csproj",
+              "RelativeDocumentMoniker": "ContactBook.Data\\ContactBook.Data.csproj",
+              "ToolTip": "\\\\192.168.3.250\\Veda\\3 \u043A\u0443\u0440\u0441\\\u0418\u0421\u041F 31\\\u041C\u0414\u041A 05.02\\\u0420\u0430\u0431\u043E\u0442\u044B \u0441\u0442\u0443\u0434\u0435\u043D\u0442\u043E\u0432\\\u0413\u043E\u0434\u0443\u043D\u043E\u0432 \u041A\u043E\u0440\u0435\u043F\u0430\u043D\u043E\u0432 \u041A\u0430\u0441\u0438\u043C\u043E\u0432 \u043F\u0435\u0442\u0443\u0445\u043E\u0432\\ContactBook\\ContactBook.Data\\ContactBook.Data.csproj",
+              "RelativeToolTip": "ContactBook.Data\\ContactBook.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-21T09:06:52.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

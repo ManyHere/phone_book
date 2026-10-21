@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ContactBook.Core/ContactBook.Core.csproj" />
+  <Project Path="ContactBook.Data/ContactBook.Data.csproj" />
+  <Project Path="ContactBook.UI/ContactBook.UI.csproj" />
+</Solution>
