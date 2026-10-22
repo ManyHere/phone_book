@@ -453,17 +453,14 @@ namespace ContactBook.UI
 
         private bool ValidateInput()
         {
-            if (string.IsNullOrWhiteSpace(txtFirstName.Text))
-            {
-                MessageBox.Show("Укажите имя контакта!", "Ошибка валидации", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                txtFirstName.Focus();
-                return false;
-            }
+            var (isValid, errorMessage) = ContactBook.Core.Validators.ContactInputValidator.Validate(
+                txtFirstName.Text,
+                txtPhone.Text,
+                txtEmail.Text);
 
-            if (string.IsNullOrWhiteSpace(txtPhone.Text))
+            if (!isValid)
             {
-                MessageBox.Show("Укажите номер телефона!", "Ошибка валидации", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                txtPhone.Focus();
+                MessageBox.Show(errorMessage, "������ ���������", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return false;
             }
 
@@ -525,3 +522,5 @@ namespace ContactBook.UI
         }
     }
 }
+
+
