@@ -17,35 +17,65 @@
 
 ## 🛠 Стек технологий
 
-* Язык и платформа: C#, .NET
+* Язык и платформа: C#, .NET 8
 * Пользовательский интерфейс: Windows Forms (WinForms)
-* База данных: SQLite
-* Тестирование: Unit Tests (Visual Studio Test Explorer)
-* Среда разработки: Visual Studio 2022
-* Контроль версий: Git, GitHub
+* База данных: SQLite + Entity Framework Core 8
+* Тестирование: MSTest Framework (автотесты домена, репозитория и сервисов)
+* Среда разработки: Visual Studio 2022 / .NET CLI
+* Контроль версий: Git, GitHub (Feature Branch Workflow)
 
 ---
 
 ## 🏗 Архитектура решения (Solution)
 
-* ContactBook.Core — предметная область, модели сущностей (Contact, Category) и логика валидации.
-* ContactBook.Data — слой доступа к данным (DAL), контекст SQLite, репозитории и экспорт/импорт.
-* ContactBook.UI — пользовательский интерфейс Windows Forms (формы, таблицы, фильтры).
-* ContactBook.Tests — автоматизированные Unit-тесты бизнес-логики и проверки входных данных.
+* **ContactBook.Core** — предметная область, модели сущностей (Contact, Group), абстракции интерфейсов и бизнес-логика сериализации.
+* **ContactBook.Data** — слой доступа к данным (DAL), контекст Entity Framework Core SQLite (`ContactDbContext`) и реализация `ContactRepository`.
+* **ContactBook.UI** — клиентский интерфейс Windows Forms (`Form1`), асинхронные обработчики, Composition Root (`Program.cs`).
+* **ContactBook.Tests** — автоматизированные Unit и интеграционные тесты MSTest.
 
 ---
 
 ## 📌 Основной функционал
 
-1. Управление контактами (CRUD): создание, просмотр, редактирование и удаление записей (ФИО, телефоны, email, дата рождения, заметки).
-2. Категории: группировка по спискам («Работа», «Семья», «Друзья», «Избранное»).
-3. Поиск и фильтрация: динамический поиск по имени, номеру телефона, фильтрация по категориям.
-4. Обмен данными: импорт и экспорт базы контактов (CSV / JSON).
+1. **Управление контактами (CRUD):** создание, просмотр, редактирование и удаление записей (имя, фамилия, телефоны, email, группы).
+2. **Категории:** группировка по спискам («Работа», «Семья», «Друзья», «Избранное»).
+3. **Поиск и фильтрация:** динамический поиск с поддержкой кириллицы по имени, телефону, email и фильтрация по группам.
+4. **Обмен данными:** асинхронный импорт и экспорт базы контактов в форматах JSON и CSV.
 
 ---
 
 ## 🚀 Инструкция по сборке и запуску
 
-1. Склонировать репозиторий:
+### 1. Клонирование репозитория:
 ```bash
-git clone [https://github.com/ManyHere/phone_book.git](https://github.com/ManyHere/phone_book.git)
+git clone https://github.com/ManyHere/phone_book.git
+cd phone_book
+```
+
+### 2. Сборка решения:
+```bash
+dotnet build ContactBook/ContactBook.slnx
+```
+
+### 3. Запуск автоматических тестов:
+```bash
+dotnet test ContactBook/ContactBook.slnx
+```
+
+### 4. Запуск настольного приложения:
+```bash
+dotnet run --project ContactBook/ContactBook.UI/ContactBook.UI.csproj
+```
+
+---
+
+## 📚 Документация проекта
+
+* [Руководство пользователя](docs/USER_MANUAL.md)
+* [Структура презентации для защиты](docs/PRESENTATION.md)
+* [Текст доклада на защиту](docs/SPEECH.md)
+* Диаграммы проекта:
+  * [Диаграмма вариантов использования (Use-Case)](docs/diagrams/use-case.png)
+  * [ER-диаграмма базы данных](docs/diagrams/er-diagram.png)
+  * [Диаграмма классов](docs/diagrams/class-diagram.md)
+  * [Диаграмма последовательности](docs/diagrams/sequence-diagram.md)
